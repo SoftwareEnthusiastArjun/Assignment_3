@@ -1,5 +1,5 @@
 # Assignment_3
-Download the Main.java file.
+Download the Main.java file
 
 Open it with any of the Java IDE.
 
