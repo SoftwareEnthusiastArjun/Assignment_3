@@ -1,9 +1,9 @@
 # Assignment_3
+This repository contains solutions to Home Assignments of Java by Arjun Veeramony of ESE. All the codes are written and executed in Visual Studio Code and JDK21.
+
 Download the Main.java file
 
 Open it with any of the Java IDE.
-
-Now open the terminal.
 
 Compile the code by typing --> javac Main.java
 
